@@ -1,0 +1,10 @@
+.nav_item{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.nav_item:hover{
+    color: #7510F7;
+}

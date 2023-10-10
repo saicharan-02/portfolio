@@ -1,0 +1,26 @@
+.skillContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 28px 10px 0 20px;
+    width: fit-content;
+    gap: 1.5rem;
+  }
+
+.skillElement{
+    padding: 4px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 4px gray;
+}
+
+.skillIcon{
+    margin: 2px 5px 2px 2px;
+    font-size: 28px;
+}
+
+.skillText{
+    margin: 2px 4px 2px 8px;
+    font-size: 20px;
+    font-weight: 600;
+}
